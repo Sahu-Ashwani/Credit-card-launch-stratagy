@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#1f77b4;">💳 Credit Card Launch — A Data-Driven Experimentation Case Study</h1>
+<h1>💳 Credit Card Launch — A Data-Driven Experimentation Case Study</h1>
 
 ## 📘 Project Overview
 
