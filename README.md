@@ -20,8 +20,14 @@ The work was executed in **two structured phases:**
 
 ## 💼 Business Context
 
-The **Indian credit card market** is highly competitive, dominated by **established banks** with strong **brand recognition** and **loyal customer bases**.
-A **new entrant bank**, planning to launch its **first credit card**, aimed to carve out a **unique position** in this saturated landscape.
+The **Indian credit card market** is highly competitive — dominated by established banks with **strong brand presence** and **deep customer loyalty**.  
+Amidst this landscape, a **new entrant bank** sought to launch its **first credit card** and establish a distinctive identity.
 
-To succeed, the bank needed a **data-driven launch strategy** — one that combined **user insights**, **design innovation**, and **statistical validation** to ensure **product–market fit** before scaling.
+To achieve this, the bank needed **data-driven launch strategy** that integrated:
+- Deep **user insight analysis**
+- Strategic **product design**
+- Rigorous **statistical validation**
 
+This ensured the credit card was **market-ready** and **positioned for success** — backed by evidence before scaling.
+
+---
