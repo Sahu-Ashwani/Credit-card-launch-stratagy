@@ -31,3 +31,10 @@ To achieve this, the bank needed **data-driven launch strategy** that integrated
 This ensured the credit card was **market-ready** and **positioned for success** — backed by evidence before scaling.
 
 ---
+
+## 🧰 Tools & Skills Used
+
+**Analytical Tools** · Pandas · NumPy · Statsmodels · SciPy · Matplotlib · Seaborn  
+**Statistical Skills** · A/B Testing  · Hypothesis Testing · Outlier Treatment  
+**Product Skills** · Insight Synthesis · User Research · User Journey Mapping
+
