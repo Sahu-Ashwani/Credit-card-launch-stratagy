@@ -10,7 +10,7 @@ The work was executed in **two structured phases:**
 - Analyzed millions of transaction logs to uncover **spending habits, usage gaps, and engagement drivers**.  
 - These insights shaped the **product proposition** and **user experience**, aimed at increasing **daily card usage** and **customer retention**.
 
-### 🧪 Phase 2 – Experimentation & Validation
+### [🧪 Phase 2 – Experimentation & Validation](https://github.com/Sahu-Ashwani/Credit-card-launch-stratagy/blob/main/credit_card_launch_phase_2.ipynb)
 - Designed and executed a **controlled A/B test** using a **two-sample z-test** to evaluate the impact on real users.  
 - Results indicated a **2–11% lift in average daily transaction value per user**, validating both **market potential** and **business viability**.
 
@@ -32,7 +32,7 @@ This ensured the credit card was **market-ready** and **positioned for success**
 
 ---
 
-## 🎨 Phase 1 — Insight-Driven Design
+## [🎨 Phase 1 — Insight-Driven Design](https://github.com/Sahu-Ashwani/Credit-card-launch-stratagy/blob/main/Credit_card_launch_phase-1.ipynb)
 
 The project began with a detailed understanding of the available data across three key tables:
 
@@ -45,7 +45,7 @@ The project began with a detailed understanding of the available data across thr
 > During EDA, several data quality issues were identified, including incorrect data types, missing values, outliers, and inconsistent entries. These were resolved using a combination of **Business Logic.** and **Statistical Techniques.** This process ensured a clean and trustworthy dataset, forming the basis for insight generation and product design decisions.
 
 👉 You can see all the data-cleaning strategies in this notebook:  
-**Phase1_Design_Research.ipynb**
+[**Phase1_Design_Research.ipynb**](https://github.com/Sahu-Ashwani/Credit-card-launch-stratagy/blob/main/Credit_card_launch_phase-1.ipynb)
 
 ---
 
@@ -88,10 +88,10 @@ Analysis revealed:
 3️⃣ Reward Points for daily UPI payments  
 
 👉 Full insight breakdown is available in the notebook:  
-**Phase1_Design_Research.ipynb**
+[**Phase1_Design_Research.ipynb**](https://github.com/Sahu-Ashwani/Credit-card-launch-stratagy/blob/main/Credit_card_launch_phase-1.ipynb)
 
 ---
-## 🧪 Phase 2 — Experiment Design & A/B Testing
+## [🧪 Phase 2 — Experiment Design & A/B Testing](https://github.com/Sahu-Ashwani/Credit-card-launch-stratagy/blob/main/credit_card_launch_phase_2.ipynb)
 
 After finalizing the core features of the credit card, I moved to **Phase 2**, where the main goal was:
 
@@ -125,7 +125,7 @@ After finalizing the core features of the credit card, I moved to **Phase 2**, w
 - 🚀 If uplift stabilizes **above 10%**, proceed with a **full-scale launch**.  
 
 👉 **You can view the full experiment design and A/B testing analysis here:**  
-**Phase2_ABTesting.ipynb**
+[**Phase2_ABTesting.ipynb**](https://github.com/Sahu-Ashwani/Credit-card-launch-stratagy/blob/main/credit_card_launch_phase_2.ipynb)
 
 ---
 
