@@ -67,17 +67,21 @@ After cleaning the datasets, we explored user behavior to identify a market gap 
 📌 **Why the Gap Exists**
 
 - **Limited Access:** Many young users lack credit history or stable income.  
-- **UPI Preference:** This segment prefers UPI apps (GPay, PhonePe) for daily transactions.  
+- **UPI Preference:** This segment prefers UPI apps (GPay, PhonePe) for daily transactions.
 
- 🔍 **Deep Dive Into Young Users***
+--- 
+
+ ## 🔍 **Deep Dive Into Young Users***
 
 Analysis revealed:
 
 - **~80% transactions via UPI** → Suggests a Rupay UPI-linked card.  
 - **Spending mostly on Amazon, Flipkart, Meesho** → Ideal for cashback incentives.  
-- **High transaction value but low frequency** → They use credit cards mainly for high-value purchases, driven by instant discounts and No-Cost EMI.  
+- **High transaction value but low frequency** → They use credit cards mainly for high-value purchases, driven by instant discounts and No-Cost EMI.
+  
+---
 
-### 💳 Product Concept — Tailored for Young Customers
+## 💳 Product Concept — Tailored for Young Customers
 
 🎯 **Target:** Age 20–30, digital-first, limited credit history.  
 💡 **Product:** Rupay Cashback Credit Card, optimized for online and UPI-native users.
@@ -89,6 +93,72 @@ Analysis revealed:
 
 👉 Full insight breakdown is available in the notebook:  
 **Phase1_Design_Research.ipynb**
+
+---
+## 🧪 Phase 2 — Experiment Design & A/B Testing
+
+After finalizing the core features of the credit card, I moved to **Phase 2**, where the main goal was:
+
+> **Will our newly designed credit card encourage users to make more day-to-day transactions and increase their average daily transaction value?**
+
+---
+
+### 🎯 Campaign Planning
+
+I started by defining the complete experiment setup:
+
+- **Target Group** and **Control Group**
+- **User persona assumptions**
+- **Success Metric:** Average Daily Transaction Amount
+
+### ⚙️ Experiment Setup
+
+Once the campaign structure was ready, I designed the experiment:
+
+- Calculated the **required sample size**
+- Defined the **experiment duration (2 months)**
+- Set up the **A/B testing hypothesis**
+
+### 📊 Tracking & Observations
+
+During the 2-month tracking period:
+
+- The **test group outperformed the control group ~70% of the days**
+- The new credit card consistently drove **higher daily transaction value**
+
+---
+
+### 🧮 Statistical Test Results (Two-Sample Z-Test)
+
+| Metric                      | Control Group | Test Group                               |
+| --------------------------- | ------------- | ---------------------------------------- |
+| **Average Daily Spend**     | ₹221.18       | ₹235.98                                  |
+| **Observed Lift**           | —             | **+6.7%**                                |
+| **95% Confidence Interval** | —             | **[1.9%, 11.5%]**                        |
+| **P-value**                 | —             | **0.0029** *(Statistically Significant)* |
+
+---
+
+### 💡 Interpretation
+
+- The uplift is **real**, not random.  
+- The new design increases daily spend by **2% to 11.5%**.  
+- Our **business target uplift** was **10%** (the threshold for meaningful revenue impact).  
+- The result (**6.7%**) is positive, but **slightly below the target**.  
+
+---
+
+## 📌 Final Recommendation
+
+- ✅ **Keep the new design** — it is clearly improving user spending.  
+- 🔧 Add **stronger incentives** (better cashback, e-commerce perks).  
+- 🔁 **Rerun the experiment** with a larger sample or longer duration (e.g., 90 days).  
+- 🚀 If uplift stabilizes **above 10%**, proceed with a **full-scale launch**.  
+
+---
+
+👉 **You can view the full experiment design and A/B testing analysis here:**  
+**Phase2_ABTesting.ipynb**
 
 ---
 
