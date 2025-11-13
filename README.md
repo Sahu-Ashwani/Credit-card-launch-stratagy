@@ -60,7 +60,7 @@ After cleaning the datasets, we explored user behavior to identify a market gap 
 
 <br>
 
-> 📌 **Why the Gap Exists**
+> 📌 **Why the Gap Exists** <br>
 > → **Limited Access:** Many young users lack credit history or stable income.  
 > → **UPI Preference:** This segment prefers UPI apps (GPay, PhonePe) for daily transactions.
 
@@ -130,3 +130,10 @@ After finalizing the core features of the credit card, I moved to **Phase 2**, w
 **Phase2_ABTesting.ipynb**
 
 ---
+
+## 👨‍💻 Author
+
+**Ashwani Kumar Sahu**  
+B.Tech + M.Tech (Transportation Engineering), IIT Bhubaneswar  
+**Focus Areas:** Product Analytics • Data Science • Experiment Design
+
