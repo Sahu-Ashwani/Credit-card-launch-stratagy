@@ -32,13 +32,6 @@ This ensured the credit card was **market-ready** and **positioned for success**
 
 ---
 
-## 🧰 Tools & Skills Used
-
-**Analytical Tools** · Pandas · NumPy · Statsmodels · SciPy · Matplotlib · Seaborn  
-**Statistical Skills** · A/B Testing  · Hypothesis Testing · Outlier Treatment  
-**Product Skills** · Insight Synthesis · User Research · User Journey Mapping
-
-
 ## 🎨 Phase 1 — Insight-Driven Design
 
 ### 📂 Data Sources
@@ -47,9 +40,8 @@ The analysis began by exploring three key datasets:
 - **Credit Profile:** Credit score, credit limit, and risk attributes  
 - **Customer Log:** Demographics such as age, income, gender, and occupation  
 
----
 
-## 🔍 Data Exploration & Cleaning
+### 🔍 Data Exploration & Cleaning
 
 During EDA, several issues surfaced — incorrect data types, missing values, outliers, and inconsistent fields.  
 These were resolved using a mix of **business logic** and **statistical methods**:
@@ -76,18 +68,15 @@ This created a **clean, reliable dataset**, enabling accurate insight generation
 - **Limited Access:** Low credit history, unstable income  
 - **UPI Dominance:** This segment prefers UPI apps (GPay, PhonePe) for everyday spending  
 
----
-
-## 🔍 Deep Dive Into Young Users
+### 🔍 Deep Dive Into Young Users
 
 Key behavioral patterns:
 - **~80% transactions via UPI** → Opportunity for a *Rupay UPI-linked card*  
 - High spending on **Amazon, Flipkart, Meesho** → Strong case for **cashback**  
 - High value, low frequency → They use CC mainly for **discounts** & **EMI**  
 
----
 
-## 💳 Product Concept — Designed for Young Customers
+### 💳 Product Concept — Designed for Young Customers
 
 **🎯 Target:** Age 20–30, digital-first, limited credit history  
 **💡 Product Idea:** *Rupay Cashback Credit Card* tailored for online + UPI-native users
@@ -98,4 +87,12 @@ Key behavioral patterns:
 3. **Reward Points** on daily UPI payments  
 
 👉 *See full insight breakdown in:* **Phase1_Design_Research.ipynb**
+
+
+
+## 🧰 Tools & Skills Used
+
+**Analytical Tools** · Pandas · NumPy · Statsmodels · SciPy · Matplotlib · Seaborn  
+**Statistical Skills** · A/B Testing  · Hypothesis Testing · Outlier Treatment  
+**Product Skills** · Insight Synthesis · User Research · User Journey Mapping
 
