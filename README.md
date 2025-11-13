@@ -61,8 +61,8 @@ After cleaning the datasets, we explored user behavior to identify a market gap 
 
 ### 🧠 Key Finding — Young Users Are Underpenetrated
 
-The **18–30 age group contributes 25% of credit inquiries but only 6% of active users.**  
-Mid-age professionals dominate credit card usage, showing a clear engagement gap among young customers.
+- The **18–30 age group contributes 25% of credit inquiries but only 6% of active users.**  
+- Mid-age professionals dominate credit card usage, showing a clear engagement gap among young customers.
 
 ### 📌 Why the Gap Exists
 
@@ -92,7 +92,7 @@ Analysis revealed:
 👉 Full insight breakdown is available in the notebook:  
 **Phase1_Design_Research.ipynb**
 
-
+---
 
 ## 🧰 Tools & Skills Used
 
