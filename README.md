@@ -42,8 +42,7 @@ The project began with a detailed understanding of the available data across thr
 
 ### 🔍 Data Exploration & Cleaning
 
-During EDA, several data quality issues were identified, including incorrect data types, missing values, outliers, and inconsistent entries.  
-These were resolved using a combination of **Business Logic.** and **Statistical Techniques.** This process ensured a clean and trustworthy dataset, forming the basis for insight generation and product design decisions.
+> During EDA, several data quality issues were identified, including incorrect data types, missing values, outliers, and inconsistent entries. These were resolved using a combination of **Business Logic.** and **Statistical Techniques.** This process ensured a clean and trustworthy dataset, forming the basis for insight generation and product design decisions.
 
 👉 You can see all the data-cleaning strategies in this notebook:  
 **Phase1_Design_Research.ipynb**
@@ -64,9 +63,7 @@ After cleaning the datasets, we explored user behavior to identify a market gap 
 - **Limited Access:** Many young users lack credit history or stable income.  
 - **UPI Preference:** This segment prefers UPI apps (GPay, PhonePe) for daily transactions.
 
---- 
-
- ## 🔍 **Deep Dive Into Young Users***
+ 🔍 **Deep Dive Into Young Users***
 
 Analysis revealed:
 
@@ -98,7 +95,7 @@ After finalizing the core features of the credit card, I moved to **Phase 2**, w
 
 ---
 
-### 🧮 Statistical Test Results (Two-Sample Z-Test)
+## 🧮 Statistical Test Results (Two-Sample Z-Test)
 
 | Metric                      | Control Group | Test Group                               |
 | --------------------------- | ------------- | ---------------------------------------- |
@@ -107,9 +104,7 @@ After finalizing the core features of the credit card, I moved to **Phase 2**, w
 | **95% Confidence Interval** | —             | **[1.9%, 11.5%]**                        |
 | **P-value**                 | —             | **0.0029** *(Statistically Significant)* |
 
----
-
-### 💡 Interpretation
+💡 **Interpretation**
 
 - The uplift is **real**, not random.  
 - The new design increases daily spend by **2% to 11.5%**.  
