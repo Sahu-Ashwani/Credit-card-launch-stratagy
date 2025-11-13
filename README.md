@@ -124,8 +124,6 @@ After finalizing the core features of the credit card, I moved to **Phase 2**, w
 - 🔁 **Rerun the experiment** with a larger sample or longer duration (e.g., 90 days).  
 - 🚀 If uplift stabilizes **above 10%**, proceed with a **full-scale launch**.  
 
----
-
 👉 **You can view the full experiment design and A/B testing analysis here:**  
 **Phase2_ABTesting.ipynb**
 
