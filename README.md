@@ -40,9 +40,7 @@ The project began with a detailed understanding of the available data across thr
 - **Credit Profile** – credit score, credit limit, and related attributes  
 - **Customer Log** – demographics like age, income, gender, occupation  
 
----
-
-## 🔍 Data Exploration & Cleaning
+### 🔍 Data Exploration & Cleaning
 
 During EDA, several data quality issues were identified, including incorrect data types, missing values, outliers, and inconsistent entries.  
 These were resolved using a combination of:
@@ -57,7 +55,7 @@ This process ensured a clean and trustworthy dataset, forming the basis for insi
 
 ---
 
-## 🔎 Phase 1 — Insight Generation & Product Positioning
+## 🔎 Insight Generation & Product Positioning
 
 After cleaning the datasets, we explored user behavior to identify a market gap for positioning the new credit card.
 
@@ -70,8 +68,6 @@ Mid-age professionals dominate credit card usage, showing a clear engagement gap
 
 - **Limited Access:** Many young users lack credit history or stable income.  
 - **UPI Preference:** This segment prefers UPI apps (GPay, PhonePe) for daily transactions.  
-
----
 
 ## 🔍 Deep Dive Into Young Users
 
