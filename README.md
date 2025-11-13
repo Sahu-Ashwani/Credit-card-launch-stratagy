@@ -58,10 +58,9 @@ After cleaning the datasets, we explored user behavior to identify a market gap 
 - The **18–30 age group contributes 25% of credit inquiries but only 6% of active users.**  
 - Mid-age professionals dominate credit card usage, showing a clear engagement gap among young customers.
 
-📌 **Why the Gap Exists**
-
-- **Limited Access:** Many young users lack credit history or stable income.  
-- **UPI Preference:** This segment prefers UPI apps (GPay, PhonePe) for daily transactions.
+>📌 **Why the Gap Exists**
+>- **Limited Access:** Many young users lack credit history or stable income.  
+>- **UPI Preference:** This segment prefers UPI apps (GPay, PhonePe) for daily transactions.
 
  🔍 **Deep Dive Into Young Users***
 
@@ -76,6 +75,7 @@ Analysis revealed:
 ## 💳 Product Concept — Tailored for Young Customers
 
 🎯 **Target:** Age 20–30, digital-first, limited credit history.  
+
 💡 **Product:** Rupay Cashback Credit Card, optimized for online and UPI-native users.
 
 **Key Features**  
