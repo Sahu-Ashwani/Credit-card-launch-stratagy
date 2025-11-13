@@ -34,59 +34,67 @@ This ensured the credit card was **market-ready** and **positioned for success**
 
 ## 🎨 Phase 1 — Insight-Driven Design
 
-### 📂 Data Sources
-The analysis began by exploring three key datasets:
-- **Transaction Log:** Complete record of customer transactions  
-- **Credit Profile:** Credit score, credit limit, and risk attributes  
-- **Customer Log:** Demographics such as age, income, gender, and occupation  
+The project began with a detailed understanding of the available data across three key tables:
 
+- **Transaction Log** – complete record of customer transactions  
+- **Credit Profile** – credit score, credit limit, and related attributes  
+- **Customer Log** – demographics like age, income, gender, occupation  
 
-### 🔍 Data Exploration & Cleaning
+---
 
-During EDA, several issues surfaced — incorrect data types, missing values, outliers, and inconsistent fields.  
-These were resolved using a mix of **business logic** and **statistical methods**:
+## 🔍 Data Exploration & Cleaning
 
-- Validated credit score–limit relationships  
-- Fixed demographic inconsistencies & aligned income brackets  
-- IQR & Z-score based outlier removal  
-- Numeric & categorical imputations for missing values  
+During EDA, several data quality issues were identified, including incorrect data types, missing values, outliers, and inconsistent entries.  
+These were resolved using a combination of:
 
-This created a **clean, reliable dataset**, enabling accurate insight generation.
+- **Business Logic:** validating credit score–limit relationships, aligning income brackets, fixing inconsistent customer attributes  
+- **Statistical Techniques:** IQR-based outlier removal, Z-score filtering, and appropriate imputations for missing numeric and categorical fields  
 
-👉 *Detailed steps available in:* **Phase1_Design_Research.ipynb**
+This process ensured a clean and trustworthy dataset, forming the basis for insight generation and product design decisions.
+
+👉 You can see all the data-cleaning strategies in this notebook:  
+**Phase1_Design_Research.ipynb**
 
 ---
 
 ## 🔎 Phase 1 — Insight Generation & Product Positioning
 
+After cleaning the datasets, we explored user behavior to identify a market gap for positioning the new credit card.
+
 ### 🧠 Key Finding — Young Users Are Underpenetrated
-- Users aged **18–30** contribute **25% of credit inquiries**  
-- But only **6% become active card users**  
-- Mid-age professionals dominate usage → **clear engagement gap**
 
-### 📌 Why This Gap Exists
-- **Limited Access:** Low credit history, unstable income  
-- **UPI Dominance:** This segment prefers UPI apps (GPay, PhonePe) for everyday spending  
+The **18–30 age group contributes 25% of credit inquiries but only 6% of active users.**  
+Mid-age professionals dominate credit card usage, showing a clear engagement gap among young customers.
 
-### 🔍 Deep Dive Into Young Users
+### 📌 Why the Gap Exists
 
-Key behavioral patterns:
-- **~80% transactions via UPI** → Opportunity for a *Rupay UPI-linked card*  
-- High spending on **Amazon, Flipkart, Meesho** → Strong case for **cashback**  
-- High value, low frequency → They use CC mainly for **discounts** & **EMI**  
+- **Limited Access:** Many young users lack credit history or stable income.  
+- **UPI Preference:** This segment prefers UPI apps (GPay, PhonePe) for daily transactions.  
 
+---
 
-### 💳 Product Concept — Designed for Young Customers
+## 🔍 Deep Dive Into Young Users
 
-**🎯 Target:** Age 20–30, digital-first, limited credit history  
-**💡 Product Idea:** *Rupay Cashback Credit Card* tailored for online + UPI-native users
+Analysis revealed:
 
-### ⭐ Key Features
-1. **5% Cashback** on Amazon & Flipkart  
-2. **No-Cost EMI** on high-value electronics  
-3. **Reward Points** on daily UPI payments  
+- **~80% transactions via UPI** → Suggests a Rupay UPI-linked card.  
+- **Spending mostly on Amazon, Flipkart, Meesho** → Ideal for cashback incentives.  
+- **High transaction value but low frequency** → They use credit cards mainly for high-value purchases, driven by instant discounts and No-Cost EMI.  
 
-👉 *See full insight breakdown in:* **Phase1_Design_Research.ipynb**
+---
+
+## 💳 Product Concept — Tailored for Young Customers
+
+🎯 **Target:** Age 20–30, digital-first, limited credit history.  
+💡 **Product:** Rupay Cashback Credit Card, optimized for online and UPI-native users.
+
+### Key Features  
+1️⃣ 5% Cashback on Amazon & Flipkart  
+2️⃣ No-Cost EMI for high-value electronics  
+3️⃣ Reward Points for daily UPI payments  
+
+👉 Full insight breakdown is available in the notebook:  
+**Phase1_Design_Research.ipynb**
 
 
 
