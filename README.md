@@ -69,7 +69,7 @@ After cleaning the datasets, we explored user behavior to identify a market gap 
 - **Limited Access:** Many young users lack credit history or stable income.  
 - **UPI Preference:** This segment prefers UPI apps (GPay, PhonePe) for daily transactions.  
 
-### 🔍 Deep Dive Into Young Users
+ 🔍 **Deep Dive Into Young Users***
 
 Analysis revealed:
 
@@ -77,14 +77,12 @@ Analysis revealed:
 - **Spending mostly on Amazon, Flipkart, Meesho** → Ideal for cashback incentives.  
 - **High transaction value but low frequency** → They use credit cards mainly for high-value purchases, driven by instant discounts and No-Cost EMI.  
 
----
-
-## 💳 Product Concept — Tailored for Young Customers
+### 💳 Product Concept — Tailored for Young Customers
 
 🎯 **Target:** Age 20–30, digital-first, limited credit history.  
 💡 **Product:** Rupay Cashback Credit Card, optimized for online and UPI-native users.
 
-### Key Features  
+**Key Features**  
 1️⃣ 5% Cashback on Amazon & Flipkart  
 2️⃣ No-Cost EMI for high-value electronics  
 3️⃣ Reward Points for daily UPI payments  
