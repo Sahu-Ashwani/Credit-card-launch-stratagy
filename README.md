@@ -6,7 +6,7 @@ This project presents a **complete end-to-end strategy** for launching a new cre
 
 The work was executed in **two structured phases:**
 
-### 🧩 Phase 1 – Insight-Driven Design
+### [🧩 Phase 1 – Insight-Driven Design ](https://github.com/Sahu-Ashwani/Credit-card-launch-stratagy/blob/main/Credit_card_launch_phase-1.ipynb)
 - Analyzed millions of transaction logs to uncover **spending habits, usage gaps, and engagement drivers**.  
 - These insights shaped the **product proposition** and **user experience**, aimed at increasing **daily card usage** and **customer retention**.
 
