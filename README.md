@@ -43,12 +43,7 @@ The project began with a detailed understanding of the available data across thr
 ### 🔍 Data Exploration & Cleaning
 
 During EDA, several data quality issues were identified, including incorrect data types, missing values, outliers, and inconsistent entries.  
-These were resolved using a combination of:
-
-- **Business Logic:** validating credit score–limit relationships, aligning income brackets, fixing inconsistent customer attributes  
-- **Statistical Techniques:** IQR-based outlier removal, Z-score filtering, and appropriate imputations for missing numeric and categorical fields  
-
-This process ensured a clean and trustworthy dataset, forming the basis for insight generation and product design decisions.
+These were resolved using a combination of **Business Logic.** and **Statistical Techniques.** This process ensured a clean and trustworthy dataset, forming the basis for insight generation and product design decisions.
 
 👉 You can see all the data-cleaning strategies in this notebook:  
 **Phase1_Design_Research.ipynb**
@@ -103,31 +98,6 @@ After finalizing the core features of the credit card, I moved to **Phase 2**, w
 
 ---
 
-### 🎯 Campaign Planning
-
-I started by defining the complete experiment setup:
-
-- **Target Group** and **Control Group**
-- **User persona assumptions**
-- **Success Metric:** Average Daily Transaction Amount
-
-### ⚙️ Experiment Setup
-
-Once the campaign structure was ready, I designed the experiment:
-
-- Calculated the **required sample size**
-- Defined the **experiment duration (2 months)**
-- Set up the **A/B testing hypothesis**
-
-### 📊 Tracking & Observations
-
-During the 2-month tracking period:
-
-- The **test group outperformed the control group ~70% of the days**
-- The new credit card consistently drove **higher daily transaction value**
-
----
-
 ### 🧮 Statistical Test Results (Two-Sample Z-Test)
 
 | Metric                      | Control Group | Test Group                               |
@@ -161,10 +131,3 @@ During the 2-month tracking period:
 **Phase2_ABTesting.ipynb**
 
 ---
-
-## 🧰 Tools & Skills Used
-
-**Analytical Tools** · Pandas · NumPy · Statsmodels · SciPy · Matplotlib · Seaborn  
-**Statistical Skills** · A/B Testing  · Hypothesis Testing · Outlier Treatment  
-**Product Skills** · Insight Synthesis · User Research · User Journey Mapping
-
